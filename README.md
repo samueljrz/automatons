@@ -2,4 +2,4 @@
 
 ### Como Rodar (isso dentro da pasta src)
 
-## dot -T svg -o ../img/<NOME DA IMAGEM>.svg <NOME DO ARQUIVO>.dot
+#### dot -T svg -o ../img/<NOME DA IMAGEM>.svg <NOME DO ARQUIVO>.dot
